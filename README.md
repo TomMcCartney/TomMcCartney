@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello :)
+## I'm Tom, a Junior AI and Data Consultant at Talan ! I'm looking forwarding to getting into this new role and learning a lot in GitHub.
 
 <!--
 **TomMcCartney/TomMcCartney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
